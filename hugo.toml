@@ -1,4 +1,61 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'mainroad'
+baseurl = "/"
+title = "Andres Del Bosque"
+pagination.pagerSize = "10"
+theme = "mainroad"
+enableGitInfo = false
+
+defaultContentLanguage = 'es'
+
+#[params]
+#  [params.navigation]
+#    help = 'Help'
+
+[Params]
+  description = "doctor en bufón" # Description of your site
+  readmore = true # Show "Read more" button in list if true
+  authorbox = false
+  toc = true
+  pager = true
+  post_meta = ["date"]
+  mainSections = ["noticias"]
+  #dateFormat = "2006-01-02"
+  dateFormat = "2 January 2006"
+  customCSS = ["css/sitio.css"]
+  showRelatedPosts = false
+  Lastmod = false
+
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
+
+[Params.logo]
+  image = "img/logo.svg"
+  title = false
+  subtitle = false
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  #widgets = ["recent", "categories", "taglist", "social", "languages"]
+  widgets = ["trabajos"]
+
+[Params.widgets]
+  recent_num = 5
+  tags_counter = false
+
+#[menu]
+#[[menu.footer]]
+#  name = 'Terms'
+#  pageRef = '/terms'
+#  weight = 10
+
+#[frontmatter]
+  #date = [':git']
+  #date = [':fileModTime']
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 0
+    ordered = false
+    startLevel = 0
