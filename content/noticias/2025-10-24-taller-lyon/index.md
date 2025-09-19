@@ -1,6 +1,6 @@
 ---
 title: Taller de clown secre en lyon
-date: 2025-10-24
+date: 2025-09-18
 ---
 
 ![](foto1.jpg)
