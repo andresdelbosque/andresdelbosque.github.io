@@ -7,9 +7,7 @@ menu:
     weight: 90
 ---
 
-![](bgcontact2.jpg)
-
-# ![](bgcontact.jpg)
+![](bgcontact.jpg)
 
 Si sientes que este bufón y tu proyecto tienen que cooperar, no dudes en contactarme ahora mismo en este formulario. ¡La risa no espera!
 
