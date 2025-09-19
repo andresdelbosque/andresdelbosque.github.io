@@ -1,6 +1,6 @@
 ---
 title: "Taller: Bouffón Sacré, Clermont Ferrand"
-date: 2025-10-17
+date: 2025-09-17
 ---
 
 ![](cartel.jpg)
