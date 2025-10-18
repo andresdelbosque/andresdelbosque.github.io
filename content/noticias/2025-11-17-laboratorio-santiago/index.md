@@ -8,11 +8,11 @@ Cual extractos de un poema perdido.
 Cual sombra buscando integrarse.
 Cual banda de bufones que anhela la Armonía y la Unidad."
 
-<!--more-->
-
 📅 17 al 29 de noviembre
 📍 Av. Italia 1679, Ñuñoa
 ⏰ Horarios variables (ver cronograma)
+
+<!--more-->
 
 Un laboratorio que explora las intersecciones entre arte, política y espiritualidad a través del lenguaje del canto a lo divino y lo humano. Dirigido por el reconocido director teatral, dramaturgo y maestro bufón sagrado Andrés del Bosque.
 
