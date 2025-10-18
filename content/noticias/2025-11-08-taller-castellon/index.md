@@ -1,5 +1,5 @@
 ---
-title: "Taller Bufón Sagrado, Castellón"
+title: "Taller: Bufón Sagrado, Castellón"
 date: 2025-10-17
 ---
 

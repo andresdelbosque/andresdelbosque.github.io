@@ -10,14 +10,10 @@ PRIMERA FRASE
 
 EXPLICACION MAS DETALLADA...
 
-TAMBIEN PUEDE CONSULTAR LA PAGINA
-[Andres del Bosque](https://andresdelbosque.github.io/)
-
-{{< youtube JDgno2hfA2o >}}
 ---
 
-![](CARTEL.jpg)
+![](cartel.jpeg)
 
-![](FOTO1.jpg)
+![](cartel2.jpeg)
 
-![](FOTO2.jpg)
+![](cartel3.jpeg)
