@@ -1,6 +1,6 @@
 ---
 title: "Seminario: Payasos Demonios, Santiago de Chile"
-date: 2025-11-02
+date: 2025-11-17
 ---
 
 Daemon, que mete su nariz donde no se le ha llamado.

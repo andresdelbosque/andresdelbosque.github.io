@@ -3,7 +3,7 @@ title = "Andres Del Bosque"
 pagination.pagerSize = "10"
 theme = "mainroad"
 enableGitInfo = false
-
+buildFuture = true
 defaultContentLanguage = 'es'
 
 #[params]

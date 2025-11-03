@@ -1,6 +1,6 @@
 ---
 title: "Conversatorio: Encuentro de bufones, Santiago de Chile"
-date: 2025-11-03
+date: 2025-11-23
 ---
 
 Para reunir el Cuerpo Repartido
