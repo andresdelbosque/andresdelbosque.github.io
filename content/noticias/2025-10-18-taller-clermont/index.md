@@ -1,6 +1,6 @@
 ---
 title: "Taller: Bouffón Sacré, Clermont-Ferrand"
-date: 2025-09-17
+date: 2025-10-18
 ---
 
 Os invito al taller de bufon sagrado para

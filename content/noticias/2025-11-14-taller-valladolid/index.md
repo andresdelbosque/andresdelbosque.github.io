@@ -1,6 +1,6 @@
 ---
 title: "Taller: Bufón Sagrado, Valladolid"
-date: 2025-10-18
+date: 2025-11-14
 ---
 
 En el Taller de Bufón Sagrado, la risa se vuelve revuelta: un cuerpo carnavalesco que desobedece al dogma neoliberal, desmonta jerarquías y convierte la seriedad en abono de lo cómico.

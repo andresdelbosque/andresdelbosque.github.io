@@ -1,6 +1,6 @@
 ---
 title: "Taller: Clown Sacré, Lyon"
-date: 2025-09-18
+date: 2025-10-24
 ---
 
 Saludos! Les queria dejar esta tremenda oportunidad 

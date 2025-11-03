@@ -1,6 +1,6 @@
 ---
 title: "Laboratorio Bufón Sagrado: El cuerpo repartido, Santiago de Chile"
-date: 2025-10-18
+date: 2025-11-17
 ---
 
 "Cual partes de un cuerpo desaparecido.

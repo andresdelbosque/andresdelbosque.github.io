@@ -1,6 +1,6 @@
 ---
 title: "Taller: Bufón Sagrado, Castellón"
-date: 2025-10-17
+date: 2025-11-08
 ---
 
 Les invito al taller de bufón sagrado que realizaremos el 8 y 9 de noviembre en Castellón de la Plana, España.
