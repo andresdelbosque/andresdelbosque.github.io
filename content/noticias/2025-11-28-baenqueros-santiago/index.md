@@ -3,9 +3,7 @@ title: "BA€NQÜEROS, Santiago de Chile"
 date: 2025-11-28
 ---
 
-BA€NQÜEROS: 
-
-Tragicomedia Bufonesca basada en El mercader de Venecia de William Shakespeare 
+BA€NQÜEROS - Tragicomedia Bufonesca basada en El mercader de Venecia de William Shakespeare 
 
 Vie 28 de noviembre a las 22.00hrs
 
