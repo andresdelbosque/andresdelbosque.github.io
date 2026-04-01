@@ -1,5 +1,5 @@
 ---
-title: "Intensivo de clown: ¿Cual es tu gracia?, Gijón
+title: "Intensivo de clown: ¿Cual es tu gracia?, Gijón"
 date: 2026-05-16
 ---
 
