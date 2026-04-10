@@ -12,8 +12,6 @@ Intensivo de clown con Andrés del Bosque
 16 y 17 de mayo de 2026
 Formación de 12 horas
 
-Desde 110 € (según fecha de inscripción)
-
 ---
 
 ![](cartel.jpeg)
