@@ -1,6 +1,6 @@
 ---
 title: "Taller Bufón Sagrado en Clermont-Ferrand"
-date: 2020-11-21
+date: 2026-11-21
 ---
 
 Aujourd’hui, beaucoup rêvent de devenir clowns, mais peu osent faire rire en assumant le ridicule de leur propre existence. Ce stage vous invite à mieux vous connaître et vous donne des outils pour construire un discours comique à partir de vos propres travers. Vous découvrirez aussi que vous n’êtes pas seul dans cette quête tendre et joyeuse : clowns et clowns-démons veillent sur la scène… Alors, allons-y !🔥🔥🔥
